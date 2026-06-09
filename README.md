@@ -2,30 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0f2744,70:0f2744,100:0d1117&height=300&section=header&text=Estiven%20Rivas&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descAlignY=65&descSize=20&descColor=58a6ff&stroke=1f6feb&strokeWidth=2" width="100%"/>
 
-</div>
-
-<!-- SALUDO ANIMADO -->
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Hola+mundo%2C+soy+Estiven+%F0%9F%91%8B;Full+Stack+Developer+apasionado+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript+%E2%9C%A8;Construyendo+el+futuro%2C+una+l%C3%ADnea+a+la+vez+%F0%9F%92%BB;Siempre+aprendiendo%2C+siempre+creciendo+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
-</div>
-
 <br/>
 
-<!-- BADGES REDES -->
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/estiwar3883)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estiven-rivas/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/estiwar3883)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/estiwar3883)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estiwar3883@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=estiwar3883&style=flat-square&color=1f6feb&labelColor=0d1117&label=👁️+Visitas+al+perfil)
-[![GitHub followers](https://img.shields.io/github/followers/estiwar3883?label=👥+Seguidores&style=flat-square&color=1f6feb&labelColor=0d1117)](https://github.com/estiwar3883?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/estiwar3883?label=⭐+Estrellas&style=flat-square&color=1f6feb&labelColor=0d1117)](https://github.com/estiwar3883)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](estiwarrivas67@gmail.com)
 
 </div>
 
@@ -41,8 +25,8 @@ const estiven = {
   ubicacion:    "Medellín, Colombia 🇨🇴",
   rol:          "Full Stack Developer",
   stack:        ["React", "Next.js", "TypeScript", "Node.js"],
-  aprendiendo:  ["Arquitectura de APIs", "Cloud AWS"],
-  hobbies:      ["Código limpio", "Open Source", "Café ☕"],
+  aprendiendo:  ["Arquitecturas", "React Native" "inteligencia Artificial"],
+  hobbies:      ["Código limpio", "Animacion"],
   disponible:   true  // ← abierto a oportunidades
 };
 ```
@@ -119,20 +103,10 @@ const estiven = {
 
 | 🏗️ Proyecto | 📝 Descripción | 🔧 Stack | 🔗 |
 |:---:|:---|:---:|:---:|
-| **ecommerce-lite** | Aplicación de e-commerce ligera y funcional con carrito de compras | TypeScript | [Ver →](https://github.com/estiwar3883/ecommerce-lite) |
-| **pagina-wed** | Página web moderna con diseño responsive y animaciones CSS | HTML · CSS | [Ver →](https://github.com/estiwar3883/pagina-wed) |
-| **python3883** | Colección de scripts, algoritmos y ejercicios en Python | Python | [Ver →](https://github.com/estiwar3883/python3883) |
-| **desempeño** | Proyecto de análisis y optimización de rendimiento web | HTML | [Ver →](https://github.com/estiwar3883/desempe-o) |
-
-</div>
-
----
-
-## 🏆 Logros de GitHub
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=estiwar3883&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+| **ecommerce-lite** | Aplicación de e-commerce ligera y funcional | TypeScript | [Ver →](https://github.com/estiwar3883/ecommerce-lite) |
+| **pagina-wed** | Página web moderna con diseño responsive | HTML · CSS | [Ver →](https://github.com/estiwar3883/pagina-wed) |
+| **python3883** | Scripts, algoritmos y ejercicios en Python | Python | [Ver →](https://github.com/estiwar3883/python3883) |
+| **desempeño** | Análisis y optimización de rendimiento web | HTML | [Ver →](https://github.com/estiwar3883/desempe-o) |
 
 </div>
 
