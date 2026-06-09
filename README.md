@@ -77,10 +77,6 @@ const estiven = {
 
 <div align="center">
 
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=estiwar3883&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&locale=es&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
-&nbsp;
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estiwar3883&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-
 </div>
 
 <div align="center">
