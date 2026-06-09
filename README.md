@@ -27,7 +27,7 @@ const estiven = {
   rol:          "Full Stack Developer",
   stack:        ["React", "Next.js", "TypeScript", "Node.js"],
   aprendiendo:  ["Arquitecturas", "React Native", "Inteligencia Artificial"],
-  hobbies:      ["Código limpio", "Animación", "Café ☕"],
+  hobbies:      ["Código limpio", "Animación"],
   disponible:   true  // ← abierto a oportunidades
 };
 ```
