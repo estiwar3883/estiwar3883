@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0f2744,70:0f2744,100:0d1117&height=300&section=header&text=Estiven%20Rivas&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descAlignY=65&descSize=20&descColor=58a6ff&stroke=1f6feb&strokeWidth=2" width="100%"/>
+<!-- BANNER: funciona en modo oscuro Y claro -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0f2744,70:0f2744,100:0d1117&height=300&section=header&text=Estiven%20Rivas&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descAlignY=65&descSize=20&descColor=58a6ff&stroke=1f6feb&strokeWidth=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:e8f4fd,30:bfdbfe,70:93c5fd,100:e8f4fd&height=300&section=header&text=Estiven%20Rivas&fontSize=75&fontColor=0f172a&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descAlignY=65&descSize=20&descColor=1d4ed8&stroke=3b82f6&strokeWidth=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0f2744,70:0f2744,100:0d1117&height=300&section=header&text=Estiven%20Rivas&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descAlignY=65&descSize=20&descColor=58a6ff&stroke=1f6feb&strokeWidth=2" width="100%"/>
+</picture>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Hola+mundo%2C+soy+Estiven+%F0%9F%91%8B;Full+Stack+Developer+apasionado+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript+%E2%9C%A8;Construyendo+el+futuro%2C+una+l%C3%ADnea+a+la+vez+%F0%9F%92%BB;Siempre+aprendiendo%2C+siempre+creciendo+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
@@ -9,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estiven-rivas/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/estiwar3883)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/estiwar3883)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](estiwarrivas67@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estiwarrivas67@gmail.com)
 
 </div>
 
@@ -25,8 +30,8 @@ const estiven = {
   ubicacion:    "Medellín, Colombia 🇨🇴",
   rol:          "Full Stack Developer",
   stack:        ["React", "Next.js", "TypeScript", "Node.js"],
-  aprendiendo:  ["Arquitecturas", "React Native" "inteligencia Artificial"],
-  hobbies:      ["Código limpio", "Animacion"],
+  aprendiendo:  ["Arquitecturas", "React Native", "Inteligencia Artificial"],
+  hobbies:      ["Código limpio", "Animación", "Café ☕"],
   disponible:   true  // ← abierto a oportunidades
 };
 ```
@@ -77,6 +82,10 @@ const estiven = {
 
 <div align="center">
 
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=estiwar3883&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&locale=es&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+&nbsp;
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estiwar3883&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
 </div>
 
 <div align="center">
@@ -116,6 +125,10 @@ const estiven = {
 
 ⭐ **Si te gusta mi trabajo, ¡dale estrella a mis repos!** ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2744,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2744,100:0d1117&height=100&section=footer&animation=fadeIn"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8f4fd,50:bfdbfe,100:e8f4fd&height=100&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2744,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
+</picture>
 
 </div>
