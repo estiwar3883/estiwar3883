@@ -1,11 +1,7 @@
 <div align="center">
 
-<!-- BANNER: funciona en modo oscuro Y claro -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0f2744,70:0f2744,100:0d1117&height=300&section=header&text=Estiven%20Rivas&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descAlignY=65&descSize=20&descColor=58a6ff&stroke=1f6feb&strokeWidth=2"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:e8f4fd,30:bfdbfe,70:93c5fd,100:e8f4fd&height=300&section=header&text=Estiven%20Rivas&fontSize=75&fontColor=0f172a&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descAlignY=65&descSize=20&descColor=1d4ed8&stroke=3b82f6&strokeWidth=2"/>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0f2744,70:0f2744,100:0d1117&height=300&section=header&text=Estiven%20Rivas&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descAlignY=65&descSize=20&descColor=58a6ff&stroke=1f6feb&strokeWidth=2" width="100%"/>
-</picture>
+<!-- BANNER flat elegante - visible en modo oscuro y claro -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d1117,100:000000&height=180&text=Estiven%20Rivas&fontSize=72&fontColor=ffffff&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descAlignY=80&descSize=19&descColor=58a6ff&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=Hola+mundo%2C+soy+Estiven+%F0%9F%91%8B;Full+Stack+Developer+apasionado+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript+%E2%9C%A8;Construyendo+el+futuro%2C+una+l%C3%ADnea+a+la+vez+%F0%9F%92%BB;Siempre+aprendiendo%2C+siempre+creciendo+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
@@ -119,16 +115,10 @@ const estiven = {
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=1F6FEB&center=true&vCenter=true&width=600&lines=%22Primero+resuelve+el+problema.+Luego+escribe+el+c%C3%B3digo.%22)](https://git.io/typing-svg)
+---
 
-<br/>
+*"Primero resuelve el problema. Luego escribe el código."*
 
 ⭐ **Si te gusta mi trabajo, ¡dale estrella a mis repos!** ⭐
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2744,100:0d1117&height=100&section=footer&animation=fadeIn"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8f4fd,50:bfdbfe,100:e8f4fd&height=100&section=footer&animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2744,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
-</picture>
 
 </div>
